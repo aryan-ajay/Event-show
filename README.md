@@ -27,7 +27,7 @@ An interactive web application that allows users to register, log in, list event
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, Bootstrap (or any other framework you used)
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB (or your database choice)
+- **Database:** MongoDB
 - **Authentication:** Passport.js 
 ## 🚀 Getting Started
 ### 1️⃣ Clone the Repository
