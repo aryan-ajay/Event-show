@@ -32,4 +32,4 @@ An interactive web application that allows users to register, log in, list event
 ## 🚀 Getting Started
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/event-listing-website.git
+git clone https://github.com/aryan-ajay/Event-show.git
